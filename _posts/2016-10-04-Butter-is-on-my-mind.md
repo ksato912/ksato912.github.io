@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On my mind
+title: Butter is on my mind
 ---
 
 Hi everyone; my name is Kirara.
